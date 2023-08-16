@@ -4,6 +4,7 @@ import atexit
 import os
 import json
 
+# This is a dummy commit for MLOps assignment
 app = Flask(__name__, static_url_path='')
 
 db_name = 'mydb'
